@@ -1,0 +1,6 @@
+[deps]
+ControllerFormats = "02ac4b2c-022a-44aa-84a5-ea45a5754bcc"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+ControllerFormats = "0.2"
