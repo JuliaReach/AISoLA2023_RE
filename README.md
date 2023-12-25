@@ -19,6 +19,7 @@ To cite the work, you can use:
 }
 ```
 
+The code has since been integrated in the package [NeuralNetworkReachability.jl](https://github.com/JuliaReach/NeuralNetworkReachability.jl).
 
 ## How to use
 
